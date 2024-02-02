@@ -1,1 +1,1 @@
-![Texto Alternativo](imagens/imagem.png)
+![Texto Alternativo](imagens/mg spotify.png)
